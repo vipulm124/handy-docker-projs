@@ -1,0 +1,7 @@
+﻿@TestApiDocker_HostAddress = http://localhost:5014
+
+GET {{TestApiDocker_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
